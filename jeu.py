@@ -1,5 +1,4 @@
 import pygame
-import threading
 import math
 import time
 
